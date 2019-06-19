@@ -1,4 +1,4 @@
-# counter 
+# fibonacci-numbers (4/5)
 ### Goal
 Once fixed, `Fibonacci.java` should read a natural number as a command line argument and find that Fibonnaci number. Look at the following examples to see what the input and goal output look like.
 ### Compiling and Running
