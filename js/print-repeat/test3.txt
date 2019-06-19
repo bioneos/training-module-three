@@ -1,0 +1,4 @@
+1 just once
+2 repeat twice
+15 a two-digit number?
+100 make sure you can handle larger numbers

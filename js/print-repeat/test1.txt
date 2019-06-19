@@ -1,0 +1,5 @@
+1 once
+5 five times
+2 twice
+4 four times
+3 thrice
