@@ -1,0 +1,6 @@
+Results
+-------
+Bools: 4
+Ints: 4
+Doubles: 3
+Strings: 5

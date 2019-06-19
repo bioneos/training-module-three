@@ -1,0 +1,6 @@
+Results
+-------
+Bools: 2
+Ints: 2
+Doubles: 2
+Strings: 2
