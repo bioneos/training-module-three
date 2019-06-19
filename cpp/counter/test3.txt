@@ -1,0 +1,16 @@
+s this is the last test case!
+i -1
+d -1.2345
+b 1
+d 4.3
+i 13
+s ssttrriinngg
+s bio::neos training plan module three
+b true
+s qwertyuiopasdfghjklzxcvbnm
+b true
+i 12
+i 13
+s test3
+d 9.801
+b false

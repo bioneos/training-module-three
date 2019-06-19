@@ -1,0 +1,8 @@
+b false
+b true
+i 1
+i 42
+d 3.14159
+d 2.718
+s this is a string
+s another string but longer

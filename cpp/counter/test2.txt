@@ -1,0 +1,13 @@
+s a string
+b true
+i 278
+i -4
+i 123
+b 0
+i 1
+d 1.0
+d 2.0
+s made by dominic
+s ew c++
+d 4.0
+b true

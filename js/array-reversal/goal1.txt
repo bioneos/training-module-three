@@ -1,0 +1,2 @@
+Forwards: this is a list of words
+Backwards: words of list a is this
