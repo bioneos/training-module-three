@@ -15,36 +15,4 @@ function foo() {
     return table;
 }
 
-foo(); // What does this return? And why?
-//Answer here:
-//https://nullprogram.com/blog/2012/11/19/ 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+console.log(foo()); // What does this print and why?
