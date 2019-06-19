@@ -2,10 +2,10 @@
 ### Goal
 Once fixed, `Fibonacci.java` should read a natural number as a command line argument and find that Fibonnaci number. Look at the following examples to see what the input and goal output look like.
 ### Compiling and Running
-Use the following command to build the program:
-`javac Fibonacci.java`
-Then use this command to run the code on `<TEST_NUMBER>`:
-`java Fibonacci <TEST_NUMBER>`
+Use the following command to build the program:\
+`javac Fibonacci.java`\
+Then use this command to run the code on `<TEST_NUMBER>`:\
+`java Fibonacci <TEST_NUMBER>`\
 The results will appear in the console.
 ### Examples
 |`<TEST_NUMBER>`|Goal Results (in the console)|
