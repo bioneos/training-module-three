@@ -1,0 +1,1 @@
+The code probably still won't work with proper punctuation and capitalization, but don't worry about that.
