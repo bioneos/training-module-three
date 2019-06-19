@@ -1,0 +1,4 @@
+9 this should be repeated nine times
+8 eight is a nice number of times to repeated
+0 don't display this at all!
+1 the four lines of this file should be printed 18 times total
