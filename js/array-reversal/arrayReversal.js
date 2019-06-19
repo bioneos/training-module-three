@@ -15,7 +15,7 @@ fs.readFile(filePath, 'utf8', (err, data) => {
     process.exit(2);
   }
   let words = data.split(' ');
-  for (let i = 0; i < words.length / 2; i++)
+  for (let i = 0; i < words.length; i++)
   {
     const temp = words[i];
     words[i] = words[words.length - 1 - i];
