@@ -1,0 +1,2 @@
+Unsorted list: This is another test where Capitalization mAtters but moRE than IN preVIOUS tests because more letterS are CaPiTaLiZeD in THIS test cASe
+Sorted list: IN in are moRE more cASe is than another This THIS test test letterS mAtters tests because but preVIOUS where CaPiTaLiZeD Capitalization
