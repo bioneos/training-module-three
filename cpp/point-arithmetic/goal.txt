@@ -1,2 +1,1 @@
-===============================================================================
-All tests passed (13 assertions in 1 test case)
+13 out of 13 tests passed. Success!
