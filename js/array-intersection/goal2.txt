@@ -1,0 +1,3 @@
+First array: The, great, questions, of, the, day, will, not, be, settled, by, means, of, speeches, and, majority, decisions, but, by, iron, and, blood
+Second array: It, is, blood, which, moves, the, wheels, of, history
+There are 3 words in the intersection of the two arrays.
