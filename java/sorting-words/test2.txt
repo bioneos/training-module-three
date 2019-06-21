@@ -1,0 +1,5 @@
+This is the second test for
+the Sorting Strings challenge
+as part of the BioNeos Training
+Plan Module Three as documented
+in the README file
