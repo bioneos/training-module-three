@@ -1,0 +1,2 @@
+Minimum: 3
+Maximum: 15.3
