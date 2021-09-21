@@ -1,3 +1,4 @@
 First array: The, first, quote, of, the, second, test, was, by, Otto, von, Bismarck, of, the, Kingdom, of, Prussia, in, 1862
 Second array: The, second, of, test, two, was, by, Benito, Mussolini, of, Italy, in, 1941
-There are 7 words in the intersection of the two arrays.
+---
+There are 7 words in the intersection of the two arrays: the, of, second, test, was, by, in

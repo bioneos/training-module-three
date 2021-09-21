@@ -1,3 +1,4 @@
 First array: this, is, the, first, list
 Second array: this, is, the, second, list
-There are 4 words in the intersection of the two arrays.
+---
+There are 4 words in the intersection of the two arrays: this, is, the, list

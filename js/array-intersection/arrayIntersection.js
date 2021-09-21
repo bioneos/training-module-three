@@ -43,5 +43,6 @@ fs.readFile(filePath, 'utf8', (err, data) => {
     }
   }
   const num = intersection.size;
-  console.log(`There ${num === 1 ? 'is' : 'are'} ${num} word${num === 1 ? '' : 's'} in the intersection of the two arrays.`);
+  console.log('---');
+  console.log(`There ${num === 1 ? 'is' : 'are'} ${num} word${num === 1 ? '' : 's'} in the intersection of the two arrays: ${arrayToString(Array.from(intersection))}`);
 });
