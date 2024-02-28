@@ -1,4 +1,4 @@
-# scoping-rules (4/5)
+# mystery-table (4/5)
 ### Goal
 Identify what the code does without running it. See [nullprogram.com](https://nullprogram.com/blog/2012/11/19/) for an explanation of this behavior and for the answer.
 ### Running
