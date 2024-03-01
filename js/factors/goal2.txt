@@ -1,0 +1,6 @@
+ % node factors.js 20
+1 is a factor of 20!
+2 is a factor of 20!
+4 is a factor of 20!
+5 is a factor of 20!
+10 is a factor of 20!

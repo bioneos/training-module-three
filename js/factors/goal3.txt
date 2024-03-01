@@ -1,0 +1,24 @@
+ % node factors.js 427836
+1 is a factor of 427836!
+2 is a factor of 427836!
+3 is a factor of 427836!
+4 is a factor of 427836!
+6 is a factor of 427836!
+12 is a factor of 427836!
+101 is a factor of 427836!
+202 is a factor of 427836!
+303 is a factor of 427836!
+353 is a factor of 427836!
+404 is a factor of 427836!
+606 is a factor of 427836!
+706 is a factor of 427836!
+1059 is a factor of 427836!
+1212 is a factor of 427836!
+1412 is a factor of 427836!
+2118 is a factor of 427836!
+4236 is a factor of 427836!
+35653 is a factor of 427836!
+71306 is a factor of 427836!
+106959 is a factor of 427836!
+142612 is a factor of 427836!
+213918 is a factor of 427836!

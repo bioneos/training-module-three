@@ -1,0 +1,16 @@
+ % node factors.js 2024
+1 is a factor of 2024!
+2 is a factor of 2024!
+4 is a factor of 2024!
+8 is a factor of 2024!
+11 is a factor of 2024!
+22 is a factor of 2024!
+23 is a factor of 2024!
+44 is a factor of 2024!
+46 is a factor of 2024!
+88 is a factor of 2024!
+92 is a factor of 2024!
+184 is a factor of 2024!
+253 is a factor of 2024!
+506 is a factor of 2024!
+1012 is a factor of 2024!
